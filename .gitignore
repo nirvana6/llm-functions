@@ -4,10 +4,6 @@
 functions.json
 /bin
 /cache
-/agents/_*
-/tools/_*
-/tools/web_search.*
-/tools/code_interpreter.*
 /.env
 __pycache__
 /.venv
